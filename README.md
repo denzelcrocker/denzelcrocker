@@ -3,21 +3,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="250"/>
 </div>
 <div id="badges"align="center">
 <a href = "https://t.me/DenZelCrockker">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-</a>
-<a href = "https://discord.com/%D0%943%D0%9D1[$$]%20M%D1%8B%D0%A8%D1%8C#0241">
-  <img src="https://img.shields.io/badge/Discord-9cf?logo=Discord&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"/>
 </a>
 <a href = "https://steamcommunity.com/id/denzelcrockker/">
   <img src="https://img.shields.io/badge/Steam-black?logo=Steam&logoColor=white&style=for-the-badge"/>
 </a>
 </div>
 <div align = "center">
-<img src="https://komarev.com/ghpvc/?username=denzelcrocker&style=flat-square&color=blue" alt="" width = "234"/>
+<img src="https://komarev.com/ghpvc/?username=denzelcrocker&style=flat-square&color=blue" alt="" width = "210"/>
 </div>
 
 <!--
