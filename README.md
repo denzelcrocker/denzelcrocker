@@ -9,7 +9,7 @@
 <a href = "https://t.me/DenZelCrockker">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
-<a href = "[Д3Н1[$$] MыШь#0241](https://discord.com/%D0%943%D0%9D1[$$]%20M%D1%8B%D0%A8%D1%8C#0241)">
+<a href = "https://discord.com/%D0%943%D0%9D1[$$]%20M%D1%8B%D0%A8%D1%8C#0241">
   <img src="https://img.shields.io/badge/Discord-9cf?logo=Discord&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
 </a>
 <a href = "https://steamcommunity.com/id/denzelcrockker/">
