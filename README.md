@@ -16,9 +16,12 @@
   <img src="https://img.shields.io/badge/Steam-black?logo=Steam&logoColor=white&style=for-the-badge"/>
 </a>
 </div>
-<div align = "center">
-<img src="https://komarev.com/ghpvc/?username=denzelcrocker&style=flat-square&color=blue" alt="" width = "270"/>
+<h1 align = "center">
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/QaN6eYS5k4nja/giphy.gif" width="700" height="390"/>
 </div>
+### :man_technologist: About Me :
 
 <!--
 **denzelcrocker/denzelcrocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
