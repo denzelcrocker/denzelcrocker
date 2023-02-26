@@ -21,7 +21,10 @@
 
 ### :man_technologist: About Me :
 - games🎮 and development💻
-- Lover ofBreaking Bad, Better Call Saul and other series📺
+- lover of Breaking Bad, Better Call Saul and other series📺
+- learning programming🧠
+- skateboarder🛹 and guitarist🎸
+- student👨‍🎓
 
 ---
 
@@ -46,12 +49,9 @@
 ### 📈 My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denzelcrocker&theme=tokyonight)
 
-<div>
-  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denzelcrocker&theme=dark&border_radius=10)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzelcrocker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 
 <!--
 **denzelcrocker/denzelcrocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
