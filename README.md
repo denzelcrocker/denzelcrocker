@@ -25,6 +25,7 @@
 - learning programming🧠
 - skateboarder🛹 and guitarist🎸
 - student👨‍🎓
+- computer assembler🖥️
 
 ---
 
