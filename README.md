@@ -24,7 +24,6 @@
 - lover of Breaking Bad, Better Call Saul and other series📺
 - learning programming🧠
 - skateboarder🛹 and guitarist🎸
-- student👨‍🎓
 - computer assembler🖥️
 
 ---
