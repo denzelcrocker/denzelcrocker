@@ -2,7 +2,7 @@
   *･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*
 </h1>
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/kirby-aFnrLfkvja75K" width="300"/>
+  <img src="https://giphy.com/gifs/kirby-aFnrLfkvja75K.gif" width="300"/>
 </div>
 <div id="badges"align="center">
 <a href = "https://t.me/DenZelCrockker">
@@ -15,15 +15,6 @@
   <img src="https://img.shields.io/badge/Steam-black?logo=Steam&logoColor=white&style=for-the-badge"/>
 </a>
 </div>
-
----
-
-### :man_technologist: About Me :
-- games🎮 and development💻
-- lover of Breaking Bad, Better Call Saul and other series📺
-- learning programming🧠
-- skateboarder🛹 and guitarist🎸
-- computer assembler🖥️
 
 ---
 
@@ -46,23 +37,5 @@
 </div>
 
 ### 📈 My Stats :
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denzelcrocker&theme=tokyonight)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denzelcrocker&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzelcrocker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**denzelcrocker/denzelcrocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
