@@ -1,12 +1,8 @@
 ```c#
 Console.WriteLine("*･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*")
 ```
-<h1 align = "center">
-```python
-print("Привет, мир!")
-```
-</h1>
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300"/>
   <img src="https://giphy.com/gifs/kirby-aFnrLfkvja75K.gif" width="300"/>
 </div>
 <div id="badges"align="center">
