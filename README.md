@@ -1,6 +1,6 @@
 <h1 align = "center">
- ```python
-Console.WriteLine("*･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*")
+```python
+print("Привет, мир!")
 ```
 </h1>
 <div id="header" align="center">
