@@ -1,9 +1,8 @@
 <h1 align = "center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  *･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="300"/>
+  <img src="https://giphy.com/gifs/kirby-aFnrLfkvja75K/giphy.gif" width="300"/>
 </div>
 <div id="badges"align="center">
 <a href = "https://t.me/DenZelCrockker">
