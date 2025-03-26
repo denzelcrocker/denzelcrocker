@@ -1,3 +1,6 @@
+```c#
+print("Привет, мир!")
+```
 <h1 align = "center">
 ```python
 print("Привет, мир!")
