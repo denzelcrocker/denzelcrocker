@@ -2,9 +2,9 @@
 Console.WriteLine("*･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*")
 ```
 <div id="header" align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1paXdobDU4NmNtaDkxaDA1ZnlzemwyaHkweGJoeTBsbzViM2UwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFnrLfkvja75K/giphy.gif" width="300"/>
 </div>
 <div id="badges"align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1paXdobDU4NmNtaDkxaDA1ZnlzemwyaHkweGJoeTBsbzViM2UwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFnrLfkvja75K/giphy.gif" width="300"/>
 <a href = "https://t.me/DenZelCrockker">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"/>
 </a>
