@@ -2,7 +2,7 @@
   *･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*
 </h1>
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/kirby-aFnrLfkvja75K/giphy.gif" width="300"/>
+  <img src="https://giphy.com/gifs/kirby-aFnrLfkvja75K" width="300"/>
 </div>
 <div id="badges"align="center">
 <a href = "https://t.me/DenZelCrockker">
