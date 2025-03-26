@@ -1,5 +1,5 @@
 <h1 align = "center">
- ```c#
+ ```python
 Console.WriteLine("*･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*")
 ```
 </h1>
