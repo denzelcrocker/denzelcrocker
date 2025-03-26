@@ -1,5 +1,7 @@
 <h1 align = "center">
-  *･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*
+ ```c#
+Console.WriteLine("*･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*")
+```
 </h1>
 <div id="header" align="center">
   <img src="https://giphy.com/gifs/kirby-aFnrLfkvja75K.gif" width="300"/>
