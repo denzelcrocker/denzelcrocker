@@ -1,5 +1,5 @@
 ```c#
-print("Привет, мир!")
+Console.WriteLine("*･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*")
 ```
 <h1 align = "center">
 ```python
