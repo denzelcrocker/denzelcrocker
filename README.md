@@ -1,41 +1,75 @@
 ```c#
-Console.WriteLine("*･゜ﾟ･*:.｡..｡.:*･･*:.｡. .｡.:*･゜ﾟ･*")
+Console.WriteLine("initializing...");
 ```
-<div id="header" align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1paXdobDU4NmNtaDkxaDA1ZnlzemwyaHkweGJoeTBsbzViM2UwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFnrLfkvja75K/giphy.gif" width="300"/>
-</div>
-<div id="badges"align="center">
-<a href = "https://t.me/DenZelCrockker">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"/>
-</a>
-  <a href = "https://vk.com/denzelen">
-  <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
-</a>
-<a href = "https://steamcommunity.com/id/denzelcrockker/">
-  <img src="https://img.shields.io/badge/Steam-black?logo=Steam&logoColor=white&style=for-the-badge"/>
-</a>
-</div>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1paXdobDU4NmNtaDkxaDA1ZnlzemwyaHkweGJoeTBsbzViM2UwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFnrLfkvja75K/giphy.gif" width="260"/>
+</p>
 
 ---
 
-<div>
-  
-  ### :hammer_and_wrench: Languages and Tools :
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="vs" alt="vs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="AppleUser" alt="AppleUser" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="ChromeUser" alt="ChromeUser" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original-wordmark.svg" title="moodle" alt="moodle" width="40" height="40"/>&nbsp;
-</div>
+```text
+STATUS: ACTIVE
+MODE: OBSERVATION
+TYPE: INTELLIGENCE
+```
 
-### 📈 My Stats :
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzelcrocker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## ◼ LINKS
+
+<p align="center">
+<a href="https://t.me/DenZelCrockker">
+  <img src="https://img.shields.io/badge/telegram-0a0a0a?style=for-the-badge"/>
+</a>
+<a href="https://vk.com/denzelen">
+  <img src="https://img.shields.io/badge/vk-0a0a0a?style=for-the-badge"/>
+</a>
+<a href="https://steamcommunity.com/id/denzelcrockker/">
+  <img src="https://img.shields.io/badge/steam-0a0a0a?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+## ◼ CORE
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35"/>
+</p>
+
+---
+
+## ◼ EXTENSIONS
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="30"/>
+</p>
+
+---
+
+## ◼ METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzelcrocker&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+```text
+> analyzing...
+> restructuring...
+> simplifying...
+
+result: stable
+```
+
+---
+
+> there is no chaos
+> only systems not yet understood
